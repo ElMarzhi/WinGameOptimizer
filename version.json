@@ -1,0 +1,14 @@
+{
+  "version": "1.8.1",
+  "releaseDate": "2026-10-19",
+  "downloadUrlExe": "https://raw.githubusercontent.com/elmarzhi/WinGameOptimizer/main/dist/WinGameOptimizer.exe",
+  "downloadUrlPs1": "https://raw.githubusercontent.com/elmarzhi/WinGameOptimizer/main/dist/WinGameOptimizer.ps1",
+  "sha256": "382669BA60381C140743660F03FD9BEEBB5378E011B2673F08EA884BD81CED68",
+  "changelog": [
+    "Resolución exacta de rutas en Single-File mediante Environment.ProcessPath para backups y version.json junto al ejecutable real.",
+    "Separación de clientes HTTP para metadata (12s) y descarga OTA (10m), más verificación de errorlevel en update_bridge.cmd.",
+    "Prevención de deadlocks leyendo stdout/stderr asíncronamente antes de WaitForExit y disposición estricta de PerformanceCounter, Process y RegistryKey.",
+    "Carga inicial asíncrona instantánea en MainWindow, bloqueo de re-entrancia en switches/mantenimiento y ajuste dinámico para pantallas 768p/125%.",
+    "Detección exacta sin falsos positivos en SFC/DISM y visualización opcional de reporte parcial al cancelar reparaciones."
+  ]
+}

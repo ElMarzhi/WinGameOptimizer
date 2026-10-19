@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 elmarzhi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+                    DESCARGO DE RESPONSABILIDAD / DISCLAIMER (ESPAÑOL)
+================================================================================
+
+Este software ("WinGameOptimizer") se distribuye con fines educativos, de 
+investigación y optimización de sistemas personales. 
+
+1. El software se entrega "tal cual" (AS-IS), sin garantías de ningún tipo, 
+   expresas o implícitas, respecto a su funcionamiento, rendimiento o adecuación 
+   a un propósito particular.
+2. Aunque WinGameOptimizer implementa respaldos automáticos en archivos (.reg) 
+   y archivos de estado (JSON) antes de realizar cualquier modificación en el 
+   Registro de Windows o en los servicios del sistema, el uso de esta herramienta 
+   se realiza bajo la total y exclusiva responsabilidad del usuario.
+3. En ningún caso el autor o los colaboradores serán responsables por pérdidas 
+   de datos, fallos del sistema, inestabilidad del hardware o cualquier daño directo, 
+   indirecto o incidental derivado del uso o la imposibilidad de uso de este software.
+================================================================================
